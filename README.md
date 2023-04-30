@@ -1,20 +1,26 @@
 # Attention-based Human Activity Recognition with 3-axis Accelerometer Data Conversion
+`3축 가속도 데이터 변환 및 Attention 기반 사람 행동인식`  
 
 A pytorch code about ETRI2023,  
-Attention-based Human Activity Recognition with 3-axis Accelerometer Data Conversion.  
-**RP를 사용한 3축 가속도 데이터 시각화 및 Attention 기반 사람 행동인식**
+**Attention-based Human Activity Recognition with 3-axis Accelerometer Data Conversion**.  
+  
+  
 To **train** or **inference** our models, please clone this repository.😀
 
-This project was researched by [Minseong Kweon](https://github.com/mnseong), [Jaehyeong Park](https://github.com/ianpark318), [Kyunghyun Kim](https://github.com/Ga-ng), [Jeonghyun Noh](https://github.com/JJeong-Gari)  
+This project was researched by [Minseong Kweon](https://github.com/mnseong), [Jaehyeong Park](https://github.com/ianpark318), [Kyunghyun Kim](https://github.com/Ga-ng), [Jeonghyun Noh](https://github.com/JJeong-Gari)   
+
 Feel free to contact us if you have any questions,  
 📬 wou1202@pusan.ac.kr  
 📬 ianpark318@pusan.ac.kr  
 📬 klps44@pusan.ac.kr  
 📬 wjdgus0967@pusan.ac.kr  
+<br><br>
+![image](/img/image1.png)
+<br><br>
 ___
 # Data Preprocessing
 - `Convert_RP.py` converts time series datas of 3-axis accelerometer to RP. <br>
-- `MFCC_convert.ipynb` converts time series datas of 3-axis accelerometer to RP. <br>
+- `MFCC_convert.ipynb` converts time series datas of 3-axis accelerometer to MFCC. <br>
 ___
 # Training Model
 
