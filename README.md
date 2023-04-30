@@ -30,7 +30,9 @@ $ ./run_rp.sh
 ```
 - `train_mfcc.py` trains mfcc images <br>
 - `train_rp` trains rp images <br>
-
+___
+# Download pretrained models
+Download `pth` files [here](https://drive.google.com/drive/u/0/folders/1ng7q5NMGdmWgQY4FZBjv9YmftLXnbAjh)
 ___
 # Inference
 ```
